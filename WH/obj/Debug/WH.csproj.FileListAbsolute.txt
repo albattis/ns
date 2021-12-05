@@ -1,0 +1,9 @@
+C:\Users\Samsung\source\repos\WH\WH\bin\Debug\WH.exe.config
+C:\Users\Samsung\source\repos\WH\WH\bin\Debug\WH.exe
+C:\Users\Samsung\source\repos\WH\WH\bin\Debug\WH.pdb
+C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.Properties.Resources.resources
+C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.exe
+C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.pdb
