@@ -7,3 +7,4 @@ C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.csproj.GenerateResource.cache
 C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.csproj.CoreCompileInputs.cache
 C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.exe
 C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.pdb
+C:\Users\Samsung\source\repos\WH\WH\obj\Debug\WH.Form1.resources
